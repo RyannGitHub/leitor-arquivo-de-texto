@@ -1,6 +1,6 @@
 # 📁 File Processor CLI
 
-Uma aplicação de linha de comando (CLI) desenvolvida em Node.js para processar arquivos de texto. Este projeto permite que os usuários processem arquivos de texto através da linha de comando, identificando e separando palavras repetidas. O usuário fornece o caminho de um arquivo de entrada e um destino para salvar o resultado processado. O terminal exibe mensagens coloridas para facilitar o entendimento do que está acontecendo, utilizando a biblioteca [Chalk](https://www.npmjs.com/package/chalk).
+Uma aplicação de linha de comando (CLI) desenvolvida em Node.js para processar arquivos de texto. Este projeto permite que os usuários processem arquivos de texto através da linha de comando, identificando e separando palavras repetidas no mesmo parágrafo. O usuário fornece o caminho de um arquivo de entrada e um destino para salvar o resultado processado. O terminal exibe mensagens coloridas para facilitar o entendimento do que está acontecendo, utilizando a biblioteca [Chalk](https://www.npmjs.com/package/chalk).
 
 
 ---
