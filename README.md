@@ -4,6 +4,16 @@ Uma aplicação de linha de comando (CLI) desenvolvida em Node.js para processar
 
 ---
 
+## 🚀 Funcionalidades
+
+- 📄 Leitura de arquivos de texto via linha de comando  
+- 💾 Salvamento de resultados processados em um caminho de destino  
+- ✅ Mensagens de sucesso em **verde**  
+- ❌ Mensagens de erro em **vermelho**  
+- 🧩 Feedback contínuo ao usuário via terminal  
+
+---
+
 ## 🧰 Bibliotecas Utilizadas
 
 Neste projeto, as principais bibliotecas utilizadas são:
@@ -22,16 +32,6 @@ Essas bibliotecas são instaladas e gerenciadas através do **npm** (Node Packag
 
 ---
 
-
-## 🚀 Funcionalidades
-
-- 📄 Leitura de arquivos de texto via linha de comando  
-- 💾 Salvamento de resultados processados em um caminho de destino  
-- ✅ Mensagens de sucesso em **verde**  
-- ❌ Mensagens de erro em **vermelho**  
-- 🧩 Feedback contínuo ao usuário via terminal  
-
----
 
 ## 📦 Instalação
 
