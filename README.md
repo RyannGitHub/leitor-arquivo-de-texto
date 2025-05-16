@@ -14,7 +14,7 @@ Neste projeto, as principais bibliotecas utilizadas são:
 - **Commander**: Facilita a criação de interfaces de linha de comando (CLI). Permite definir opções e comandos que o usuário pode passar ao executar a aplicação, tornando a manipulação de argumentos mais simples e organizada.  
   [Documentação do Commander](https://www.npmjs.com/package/commander)
 
-  - **Chalk**: Utilizada para colorir as mensagens exibidas no terminal. Com o Chalk, mensagens de erro aparecem em vermelho e mensagens de sucesso em verde, tornando a saída mais legível e fácil de interpretar.  
+- **Chalk**: Utilizada para colorir as mensagens exibidas no terminal. Com o Chalk, mensagens de erro aparecem em vermelho e mensagens de sucesso em verde, tornando a saída mais legível e fácil de interpretar.  
   [Documentação do Chalk](https://www.npmjs.com/package/chalk)
 
 
